@@ -18,3 +18,5 @@ public-vpn-231.opengw.net:219.100.37.170
 public-vpn-43.opengw.net:219.100.37.7
 
 public-vpn-226.opengw.net:219.100.37.155
+
+https://www.cman.jp/network/support/nslookup.html
